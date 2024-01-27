@@ -1,11 +1,17 @@
 body{
 
-    background: #d1d5db;
+    background-image: url('stembckground.jpeg');
 }
 
 .height{
 
     height: 100vh;
+}
+
+/*title text styling*/
+.titletext{
+    color:pink;
+    background:#222;
 }
 
 /*search bar styling*/
