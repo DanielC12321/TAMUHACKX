@@ -2,7 +2,14 @@
  * Globals
  */
 
-
+body{
+  background-image:url(stembckground.jpeg);
+}
+/*title styling*/
+.titleprime{
+  background: black;
+  color:pink;
+}
 /* Custom default button */
 .btn-light,
 .btn-light:hover,
@@ -95,4 +102,14 @@
 
   box-shadow: none;
   border:none;
+}
+
+/*new form styling*/
+/*New Form Styling*/
+.opp{
+  color:red
+}
+
+.form-group{
+  background-color: #222;
 }
