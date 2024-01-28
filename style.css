@@ -1,6 +1,6 @@
 body{
 
-    background-image: url('stembckground.jpeg');
+    background-image: url('newbckground.jpeg');
 }
 
 .height{
@@ -73,6 +73,7 @@ body{
     color:red
 }
 
-.form-group{
-    background-color: #222;
+/*Search Display*/
+.searchdisplay{
+    background-color:aliceblue;
 }
