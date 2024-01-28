@@ -15,7 +15,7 @@ const response = axios.get('https://api.search.brave.com/res/v1/web/search', {
   for(let i = 0; i < response.data.web.results.length; i++) {
     let obj = response.data.web.results[i];
 
-    console.log(obj.url);
+    console.log(obj.description);
 }
   //(response.data.web).forEach(ind=>console.log(ind.url));
 });
