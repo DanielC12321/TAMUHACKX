@@ -8,5 +8,9 @@
 <a href = "https://getbootstrap.com">
 <h4>Bootstrap</h4>
 </a>
+<h4>Brave Search API</h4>
+
+<h2>Usage</h2>
+<p>Children can explore different parts of STEM by picking one of the four options. Then they are led to a popup of many interests that they could have related to a part of STEM. Furthermore, they have the ability to search up opportunities in future dreams they can pursue</p>
 
 
